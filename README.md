@@ -1,5 +1,4 @@
 # Diagnosing-breast-cancer-with-nearest-neighbors
-
 Applying k-NN (nearest neighbors) algorithm to a dataset to predict whether a tumor is malignant or benign. 
 
 This is achieved with the use of Python scikit-learn and it's sklearn, numpy, and pandas libraries.
